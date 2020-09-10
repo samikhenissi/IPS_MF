@@ -67,7 +67,7 @@ from Propensity import *
 Then create a Propensity instance
 
 ```python
-propensity = Propensity(propensity_model = poisson)
+propensity = Propensity(propensity_model = "poisson")
 ```
 
 To train the propensity on a given dataframe (the columns of the dataframe need to refer to: UserId ,ItemId,rating in the same order)
