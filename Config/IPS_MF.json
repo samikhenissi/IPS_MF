@@ -1,0 +1,10 @@
+{"num_epoch": 200,
+ "test_ratio": 0.2,
+  "batch_size": 512,
+  "optimizer": "adam",
+  "adam_lr": 1e-3,
+  "latent_dim": 8,
+  "l2_regularization": 0.001,
+  "topk": 10,
+  "propensity_model": "popularity",
+  "expl": 1}
