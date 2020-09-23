@@ -4,7 +4,7 @@ In this repo, I implemented Inverse Propensity Matrix Factorization for Movielen
 
 
 
-IPS methods in Recommender Systems are gaining more and more attention. In fact, these method help unbias the performance estimation of the algorithm by weighting it by the inverse propensity of each rating
+IPS methods in Recommender Systems are gaining more and more attention. In fact, these method help unbias the performance estimation of the algorithm by weighting it by the inverse propensity of each rating.
 
 Furthermore, as propensity is an unseen variable, we provide two methods to estimate its value: ***<u>Popularity based propensity</u>*** and ***<u>Poisson based propensity</u>*** These models are discussed in the following paper: http://www.its.caltech.edu/~fehardt/UAI2016WS/papers/Liang.pdf (Causal Inference for Recommendation)
 
